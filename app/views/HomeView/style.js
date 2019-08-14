@@ -6,6 +6,12 @@ export const styles = StyleSheet.create({
     // position: 'absolute',
     alignSelf: 'center',
     justifyContent: 'center',
-    top: 690,
+    top: 680,
+  },
+  MessageBox: {
+    // position: 'absolute',
+    alignSelf: 'center',
+    justifyContent: 'center',
+    top: 250,
   },
 })
